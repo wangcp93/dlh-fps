@@ -16,5 +16,5 @@ This package requires:
 * [PyTorch version >= 2.1.2](https://pytorch.org/)
 * [Scikit-learn version >= 1.4.0](https://scikit-learn.org/stable/) 
 * [Matplotlib version >= 3.8.2](https://matplotlib.org/)
-* [RDkit version >= 2023.9.5]([http://www.rdkit.org/docs/Install.html](https://www.rdkit.org/))
+* [RDkit version >= 2023.9.5](https://www.rdkit.org/)
 
