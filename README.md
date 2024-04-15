@@ -1,6 +1,4 @@
-# dlh-fps
-
-Replication of Neural Graph Fingerprints
+# Replication of Neural Graph Fingerprints
 =============
 
 This software package replicates the work by David Duvenaud, *et. al.*, on the implementation of convolutional networks on molecular graphs of arbitrary size that generate molecular fingerprints (i.e., embeddings) for downstream property prediction. Citation to the original paper:
