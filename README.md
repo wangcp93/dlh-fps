@@ -10,7 +10,8 @@ This replication work also uses part of the original authors' preprocessed data 
 
 ## Package setup
 
-This package requires:
+Python 3.11.4 was used for this work. Installing packages requires:
+
 * [Numpy version >= 1.26.0](https://numpy.org/)
 * [Pandas version >= 2.2.2](https://pandas.pydata.org/)
 * [PyTorch version >= 2.1.2](https://pytorch.org/)
